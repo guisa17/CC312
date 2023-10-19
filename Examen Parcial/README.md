@@ -17,10 +17,10 @@ Para nuestro caso, importaremos las librerías requests y json. Y tomaremos nues
 
 ## Pregunta 2: NumbersAPI
 
-Para este apartado, haremos uso de la API NumbersAPI que nos dá datos interesantes de algún número, de no haber un dato interesante en esta API, se le llamará un número aburrido.
+Para este apartado, haremos uso de la API NumbersAPI que nos da datos interesantes de algún número, de no haber un dato interesante en esta API, se le llamará un número aburrido.
 
 ![Alt text](img/image-2.png)
 
-De igual manera, importaremos las librerías requests y json. Seguidamente, leeremos un archivo de números test_numbers.txt, y con la ayuda requests.get, guardaremos nuestros datos ern formato JSON. Guardamos los resultados en un arreglo, y el output lo escribiremos en el archivo test_numbers_result.txt. 
+De igual manera, importaremos las librerías requests y json. Seguidamente, leeremos un archivo de números test_numbers.txt, y con la ayuda requests.get, guardaremos nuestros datos en formato JSON. Guardamos los resultados en un arreglo, y el output lo escribiremos en el archivo test_numbers_result.txt. 
 
 ![Alt text](img/image-3.png)
